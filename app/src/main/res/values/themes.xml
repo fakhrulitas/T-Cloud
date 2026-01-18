@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TCloud" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#004A77</item>
+        <item name="colorPrimaryVariant">#C2E7FF</item>
+        <item name="colorAccent">#C2E7FF</item>
+        <item name="android:statusBarColor">#C2E7FF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.TCloud.NoActionBar" parent="Theme.TCloud">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>
