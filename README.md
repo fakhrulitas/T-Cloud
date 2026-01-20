@@ -2,12 +2,12 @@
 
 Aplikasi cloud storage sederhana untuk Android berbasis bot Telegram.
 
-Aplikasi ini hanya membutuhkan Telegram untuk berjalan
-Pastikan Telegram tersedia pada ponsel anda
-kemudian buka link bot telegram berikut https://t.me/tc1oud_bot
-Buka akun dari telegram bot tersebut lalu klik START atau ketik /start
-Buka aplikasi app-debug.apk
-selamat aplikasi dapat dipakai untuk upload berbagai file
+* Aplikasi ini hanya membutuhkan Telegram untuk berjalan.
+* Pastikan Telegram tersedia pada ponsel anda.
+* Kemudian buka link bot telegram berikut https://t.me/tc1oud_bot
+* Buka akun dari telegram bot tersebut lalu klik START atau ketik /start
+* Buka aplikasi app-debug.apk
+* selamat aplikasi dapat dipakai untuk upload berbagai file
 secara cloud
 
 ## Spesifikasi & Fitur
